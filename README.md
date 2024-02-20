@@ -11,9 +11,9 @@ Explorer:
 >- [Explorer](https://goerli.eigenlayer.xyz/operator)
 
 ### Minimum Hardware Requirements
- - 4x CPUs; the faster clock speed the better
- - 16GB RAM
- - 160GB of storage (SSD or NVME)
+ - 2x CPUs; the faster clock speed the better
+ - 8GB RAM
+ - 100GB of storage (SSD or NVME)
  - Ubuntu 20.04
 
 Первый шаг к взаимодействию с тестовой сетью Eigenlayer - это получение gETH. Но для этого вы должны сначала получить Goerli ETH в своем кошельке EVM. Вы можете подключиться к Eigenlayer с помощью кошелька, который вы создадите через ноду.
